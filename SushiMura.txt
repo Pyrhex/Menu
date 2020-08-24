@@ -1,0 +1,4 @@
+SalmonNigiri 1.85
+SalmonDon 14.50
+Takoyaki 3.95
+Futomaki 5.95

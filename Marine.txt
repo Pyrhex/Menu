@@ -1,0 +1,27 @@
+BBQCornBeefHash 13.50
+DenverOmelet 11
+VegetarianFrittata 11
+ButtermilkPancakes 10
+2EggBreakfast 8
+JakesBreakfastSandwich 12.95
+LobsterAndShrimpCake 13
+ThaiRedCurryMussels 17
+VegetableSpringRolls 10
+DimSumSteamer 12
+MarineDrivePrawns 16
+Pizza 10
+Minestrone 6
+HouseSmokesBeefShortRibTacos 15
+BurgerExtravaganza 12
+GrilledPeachAndMozzarella 16
+SouthwestGreens 16
+CobbSalad 18
+RomaineAndKaleCaesar 10
+MixedGreens 9
+SweetChiliChickenBowl 17
+BakedHalibut 30
+10ozRibeye Steak 38
+ChowMein 16
+GrilledChickenAdobo 14
+FeatureDessert 9
+IceCreamSundae 6
